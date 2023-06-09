@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://luminshi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://luminshi.github.io/" rel="alternate" type="text/html" /><updated>2023-06-11T18:25:17+00:00</updated><id>https://luminshi.github.io/feed.xml</id><title type="html">lumin’s page</title><subtitle>hi there, my name is lumin shi.&lt;br&gt; i am a member of cloudflare&apos;s traffic engineering team.&lt;br&gt; my main research interest is in computer networking.&lt;br&gt; you can find my cv &lt;a href=&quot;/assets/files/cv.pdf&quot;&gt;here&lt;/a&gt;.  :) &lt;div class=&quot;icon-links&quot;&gt;
+  &lt;a href=&quot;https://scholar.google.com/citations?user=C__bQWkAAAAJ&amp;hl=en&quot;&gt;
+    &lt;img src=&quot;/assets/icons/google_scholar_icon.svg&quot; alt=&quot;my google scholar profile&quot;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&quot;https://github.com/luminshi&quot;&gt;
+    &lt;img src=&quot;/assets/icons/github_icon.svg&quot; alt=&quot;my github profile&quot;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&apos;https://vsco.co/lumin&apos;&gt;
+    &lt;img src=&quot;/assets/icons/vsco_icon.svg&quot; alt=&quot;my vsco gallery&quot;/&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+</subtitle><author><name>Lumin Shi</name></author><entry><title type="html">Updating my web page</title><link href="https://luminshi.github.io/2023/06/08/updating-my-web-page/" rel="alternate" type="text/html" title="Updating my web page" /><published>2023-06-08T00:00:00+00:00</published><updated>2023-06-08T00:00:00+00:00</updated><id>https://luminshi.github.io/2023/06/08/updating-my-web-page</id><content type="html" xml:base="https://luminshi.github.io/2023/06/08/updating-my-web-page/">&lt;p&gt;My GitHub page’s latest update was made in March 2021, whoops.
+Obviously, the page needs a much-needed update; you are looking at it now. This post is a quick update about me.&lt;/p&gt;
+
+&lt;p&gt;So, I completed graduate school in Oregon early last year.
+I am currently a systems engineer in Cloudflare’s traffic engineering team.
+It has been an excellent experience for me so far. I appreciate that:
+1) I have friendly and competent colleagues, and
+2) I get to work on interesting problems that can positively affect a &lt;a href=&quot;https://www.cloudflare.com/network/&quot;&gt;large network&lt;/a&gt; on the Internet.&lt;/p&gt;
+
+&lt;p&gt;Apart from my work life, my wife and I are settling in the same city after many years of a long-distance relationship!&lt;/p&gt;
+
+&lt;p&gt;With the above, I conclude my first post on my updated website. XD&lt;/p&gt;</content><author><name>Lumin Shi</name></author><category term="personal" /><summary type="html">My GitHub page’s latest update was made in March 2021, whoops. Obviously, the page needs a much-needed update; you are looking at it now. This post is a quick update about me.</summary></entry></feed>
